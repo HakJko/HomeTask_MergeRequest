@@ -17,6 +17,6 @@ public class Program {
 
     }
     public static void print(String name) {
-        System.out.println("Hello, " + name);
+        System.out.println("Nice to meet you, " + name);
     }
 }
